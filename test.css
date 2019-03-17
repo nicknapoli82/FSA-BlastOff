@@ -1,0 +1,29 @@
+/* Testing some CSS properties */
+/* Because why not */
+
+#big_container {
+/*    background-color: Aqua;
+    padding-top: 50%;
+    padding-left: 50%*/
+}
+/*
+#text_field {
+    align-content: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+*/
+body {
+    margin: 0px;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
